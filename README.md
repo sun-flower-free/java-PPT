@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/github/languages/code-size/sun-flower-free/java-PPT?style=for-the-badge&color=red">
 <img src="https://img.shields.io/github/v/release/sun-flower-free/java-PPT?style=for-the-badge">
 <img src="https://img.shields.io/github/license/sun-flower-free/java-PPT?style=for-the-badge&color=blueviolet">
-<img src="https://img.shields.io/github/workflow/status/sun-flower-free/java-PPT/release?style=for-the-badge">
+<!-- <img src="https://img.shields.io/github/workflow/status/sun-flower-free/java-PPT/release?style=for-the-badge"> -->
 </p>
 
 ## 项目介绍
